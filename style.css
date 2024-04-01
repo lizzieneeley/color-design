@@ -6,6 +6,7 @@ body{
 
 .row{
     padding-top: 20px;
+    color:#383838;
 }
 
 .column {
@@ -133,4 +134,66 @@ footer{
     padding-left: 20px;
     font-family: Itim;
     color:#5B5B5B;
+}
+
+/* good examples */
+
+#goodIntro{
+    color:#383838;
+    font-size: 50px;
+}
+
+.leftExample {
+    width: 50%;
+    padding-right: 150px;
+    padding-left: 20px;
+}
+
+#goodExamples{
+    font-size: 45px;
+    color: #4056A1;
+    font-family: inter;
+    text-align: center;
+}
+
+.firstDesc{
+    float: right;
+    padding-right: 100px;
+    color:#383838;
+    font-family: inter;
+}
+
+#exampleHead {
+    font-size: 35px;
+    
+}
+
+#goodColors{
+    float: right;
+   padding-top: 20px;
+   overflow:hidden;
+   padding-right: 50px;
+   padding-top: 175px;
+}
+
+#liink{
+    color:#383838;
+    font-weight: 600;
+    font-family: inter;
+}
+
+.goodDescription{
+    font-family: inter;
+}
+
+#exampleOneImage{
+    padding-left: 100px;
+}
+
+.secondDesc{
+    float:left;
+    padding-left: 100px;
+    color:#383838;
+    font-family: inter;
+    padding-right: 150px;
 }
