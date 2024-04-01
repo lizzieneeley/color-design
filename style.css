@@ -158,7 +158,7 @@ footer{
 
 .firstDesc{
     float: right;
-    padding-right: 100px;
+    padding-right: 500px;
     color:#383838;
     font-family: inter;
 }
@@ -187,15 +187,15 @@ footer{
 }
 
 #exampleOneImage{
-    padding-left: 100px;
+    padding-left: 150px;
 }
 
 .secondDesc{
     float:left;
-    padding-left: 100px;
+    padding-left: 150px;
     color:#383838;
     font-family: inter;
-    padding-right: 150px;
+    padding-right: 200px;
 }
 
 .secondBadDesc{
@@ -212,4 +212,12 @@ footer{
     text-align:left;
     padding-right:20px;
     padding-left:100px;
+}
+
+#badColors{
+float: right;
+   padding-top: 20px;
+   overflow:hidden;
+   padding-right: 150px;
+   padding-top: 175px;
 }
