@@ -48,8 +48,9 @@ body{
     color: white;
     height: 400px;
     width: 100vw;
-    padding-left: 20px;
+    padding-left: 50px;
     padding-top: 10px;
+    padding-right: 0%;
 }
 #uxHead{
     font-weight: 500;
@@ -73,13 +74,13 @@ body{
 }
 
 .application{
-    padding-right: 20px;
+    padding-right: 150px;
 }
 
 .colorcircle{
    float: right;
    padding-top: 20px;
-   overflow:hidden
+   overflow:hidden;
 }
 
 
